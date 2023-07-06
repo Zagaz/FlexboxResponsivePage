@@ -3,4 +3,7 @@
 
 This is just an exercise using 100% Flexbox for responsivity.
 ### Why Batman - Year One?
-Because I just love this classic. Back in the 80's Frank Miller had a great impact on me. I read "The Dark Knight Returns" and since than, Batman became my favorite "superhero" and Frank Miller one of my favorite writers.
+Because I just love this classic. Back in the 80's Frank Miller had a great impact on me. I read ***"The Dark Knight Returns"*** and since then, Batman became my favorite "superhero" and Frank Miller one of my favorite writers.
+
+See it live: 
+[Live Preview](https://zagaz.github.io/FlexboxResponsivePage/)
